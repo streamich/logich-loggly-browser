@@ -1,0 +1,11 @@
+{
+    "name": "logich-loggly-browser",
+    "version": "0.0.1",
+    "description": "logich plugin to send logs to loggly.com in your browser.",
+    "keywords": ["logger", "logging", "logs", "logich", "loggly", "loggly.com", "browser", "client"],
+    "main": "./index",
+    "repository": {},
+    "devDependencies": {
+        "logich": "*"
+    }
+}
