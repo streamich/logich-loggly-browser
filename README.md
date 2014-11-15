@@ -1,7 +1,8 @@
-This is [loggly.com](http://loggly.com) middleware plugin for [`logich`](https://www.npmjs.org/package/logich) logger to be used in browser.
+[`logich-loggly-browser`](https://www.npmjs.org/package/logich-loggly-browser) is [loggly.com](http://loggly.com) middleware plugin for [`logich`](https://www.npmjs.org/package/logich) logger to be used in browser.
 Can be used with Browserify or Webpack.
 
 Install:
+
     npm install logich
     npm install logich-loggly-browser
         
